@@ -1,0 +1,120 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 30px;
+    font-weight: 700;
+    float: left;
+    margin: 20px;
+}
+
+span {
+    color: #77a466;
+}
+
+a {
+    text-decoration: none;
+    color: #77a466;
+    font-size: 14px;
+    font-weight: 700;
+    float: right;
+    margin: 32px;
+}
+
+img {
+    width: 95%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 2px solid #77a466;
+}
+
+h2 {
+        font-size: 18px;
+        font-family: "Montserrat";
+        color: #77a466;
+        font-weight: bold;
+        line-height: 1.278;
+}
+
+p {
+    color: black;
+    font-size: 16px;
+}
+
+.top-text {
+    width: 90%;
+    text-align: left;
+    margin: 35px;
+}
+
+.bottom {
+    border-top: 1px solid gray;
+    border-bottom: 1px solid gray;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 95%;
+}
+
+.third {
+    width: 30%;
+    height: 200px;
+}
+
+.third p {
+    font-size: 16px;
+}
+
+.one {
+    float: left;
+    border-right: 1px solid gray;
+    padding-top: 25px;
+}
+
+.one p {
+    color: #77a466;
+}
+
+.two {
+    float: left;
+    border-right: 1px solid gray;
+    text-align: left;
+    padding-top: 25px;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+
+.three {
+    float: left;
+    padding-top: 25px;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+
+h3 {
+    font-size: 12px;
+}
+
+address {
+    font-style: normal;
+}
+
+footer {
+    display: inline-block;
+    margin-left: 25px;
+    width: 95%;
+    border-top: 1px solid gray;
+    text-align: center;
+}
+
+footer p {
+    font-weight: 700;
+}
+footer p span {
+    font-family: 'Great Vibes', cursive;
+    font-size: 23px;
+}
